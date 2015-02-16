@@ -1,0 +1,65 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: sans-serif;
+	font-size: 14px;
+}
+
+.contenido{
+	margin: 5%;
+}
+
+h2{
+	text-align: left;
+	margin-bottom: 20px;
+}
+
+h1{
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+.herramientas{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+a{
+	text-decoration: none;
+	margin-right: 15px;
+}
+
+td{
+	margin: 10px;
+	padding: 10px;
+}
+
+th{
+	padding: 10px;
+	background-color: #DDA0DD;
+}
+
+.tabla{
+	margin-left: 15%;
+}
+
+input[type="text"]{
+	padding: 5px;
+	margin-bottom: 5px;
+}
+
+input[type="submit"]{
+	padding: 3px;
+}
+
+.trhover:hover{
+	background-color: #63D1A6;
+}
+
+select{
+	padding: 5px;
+	margin-bottom: 5px;
+}
